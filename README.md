@@ -1,5 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+> :warning: **This repository is for code inspection within the double-blind review only. Any links in the documentation could reveal the author identities
+
 # qiskit-runtime-handler
 
 This service takes a workflow fragment realizing a hybrid algorithm as input and generates a [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/) program to benefit from speedups and reduced queuing times.
